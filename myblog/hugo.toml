@@ -1,0 +1,4 @@
+baseURL = 'https://kislovskaa.github.io/'
+languageCode = 'en-us'
+title = 'Hello Friend'
+theme = 'Holy'
